@@ -1,0 +1,5 @@
+getting familiar with git(local) and git hun
+git clone url
+git add .
+git commit -m "msg"
+git push origin main
